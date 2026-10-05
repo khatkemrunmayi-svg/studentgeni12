@@ -1,0 +1,6 @@
+{
+  "name": "StudyGenie — EduAdapt 10",
+  "description": "Adaptive Class 10 AI Learning Assistant featuring syllabus roadmap, smart quizzes, AI tutor, PYQ bank, and academic milestone tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
